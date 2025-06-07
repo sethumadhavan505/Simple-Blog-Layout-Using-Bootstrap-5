@@ -35,24 +35,3 @@ project-folder/
 
 
 ---
-
-## 🌐 Live Preview
-
-You can host this on GitHub Pages or any static hosting service to preview the blog layout in action.
-
-> Example: `https://yourusername.github.io/blog-bootstrap/`
-
----
-
-## 🧰 Setup Instructions
-
-1. **Clone this repository** or download the `.zip`:
-   ```bash
-   git clone https://github.com/yourusername/blog-bootstrap.git
-
-    Open index.html in your browser:
-
-cd blog-bootstrap
-start index.html  # or double-click the file
-
-🎉 That’s it! No additional setup required. All resources are loaded via CDN.
